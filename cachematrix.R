@@ -1,6 +1,4 @@
 ## 
-## 40 character SHA-1 hash code
-70877534fa1947fcb523df748d2ced9bc0d92b1f
 ##R session:
 ## lexical scope programming assignment 2
 
